@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sarveshsivasankaran.Sarveshsivasankaran" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarvesh Sivasankaran!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+Codey!+👋;+I'm+Sarvesh Sivasankaran!;" />
 </h1>
 
-<h3 align="center">A Passionate Computer Science Student At Rajalakshmi Engineering College</h3>
+<h3 align="center">✨ About Me: ✨</h3>
 
 <br/>
 
@@ -13,8 +13,6 @@
  🔭 I’m currently studying At Rajalakshmi Engineering College
  
  🌱 I’m currently learning **Flutter, RPA, MongoDB**
-
-💬 Ask me about **C, Python, MySQL, Figma.... or anything [here](https://github.com/Sarveshsivasankaran/Sarveshsivasankaran/issues)**
 
  </div>
  
