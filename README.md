@@ -38,12 +38,14 @@
 <br/>
 
 <div align="center">
-    Frontend Tools:<br><br/>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
-    UI/UX Tools:<br><br/>
-    <img src="https://skillicons.dev/icons?i=figma" />
-    Backend Tools:<br><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    Frontend Tools:<br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" /><br><br>
+    UI/UX Tools:<br>
+    <img src="https://skillicons.dev/icons?i=figma" /><br><br>
+    Backend Tools:<br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br><br>
+    Programming Tools:<br>
+    <img src="https://skillicons.dev/icons?i=c,java,python,r" /><br><br>
 </div>
 
 <br/>
