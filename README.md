@@ -47,7 +47,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" />
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" /> -->
+<img src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/dist/github-snake.svg" alt="GitHub Snake Animation" />
+
   
   <br/><br/><br/>
 </div>
@@ -61,9 +63,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sarveshsivasankaran&show_icons=true&theme=material-palenight"/>
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-
 <br/>
 
 <hr/>
