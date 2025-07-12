@@ -62,6 +62,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sarveshsivasankaran&show_icons=true&theme=material-palenight"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
 
 <hr/>
