@@ -57,9 +57,9 @@
 <br>
 <img src="https://streak-stats.demolab.com?user=Sarveshsivasankaran&theme=material-palenight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&stroke=EBDED2" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sarveshsivasankaran&show_icons=true&theme=material-palenight" alt="Readme Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
 <br/>
 
 <hr/>
