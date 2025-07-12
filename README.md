@@ -36,21 +36,17 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    Frontend Tools:<br><br/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
+    UI/UX Tools:<br><br/>
+    <img src="https://skillicons.dev/icons?i=figma" />
+    Backend Tools:<br><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -61,5 +57,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
 <br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 <hr/>
