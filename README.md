@@ -54,7 +54,7 @@
 <br>
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarveshsivasankaran&theme=material-palenight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&stroke=EBDED2" alt="GitHub Streak" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&layout=donut-vertical(https://github.com/anuraghazra/github-readme-stats)" alt="Languages" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&layout=donut-vertical(https://github.com/Sarveshsivasankaran/github-readme-stats)" alt="Languages" /></a>
 
 </div>
 
