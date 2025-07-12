@@ -60,6 +60,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sarveshsivasankaran&show_icons=true&theme=material-palenight"/>
+
 <br/><br/>
 
 <hr/>
