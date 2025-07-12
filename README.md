@@ -8,7 +8,11 @@
 
 <div align="left">
  
- 🔭 I’m currently studying At Rajalakshmi Engineering College
+ 🔭 I’m currently studying at Rajalakshmi Engineering College
+ 
+ 🌟 I'm passionate about building smart solutions using modern technologies  
+ 
+💡 Always curious to explore new tech like AI, automation, and cross-platform apps  
  
  🌱 I’m currently learning **Flutter, RPA, MongoDB**
 
@@ -52,9 +56,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<!-- <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarveshsivasankaran&theme=material-palenight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&stroke=EBDED2" alt="GitHub Streak" /></a>
-</div>
+</div> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8&layout=compact&theme=material-palenight" alt="Top Languages" />
+
 
 <div align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&langs_count=8" alt="Languages" /></a>
