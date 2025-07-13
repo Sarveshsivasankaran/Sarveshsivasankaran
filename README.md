@@ -7,6 +7,13 @@
 <h3 align="center">✨ About Me: ✨</h3>
 
 <div align="left">
+
+Hi, I’m Sarvesh S, a Computer Science Engineering student at Rajalakshmi Engineering College with a strong curiosity for technology and problem-solving. I enjoy exploring different domains, from cybersecurity to app development, to understand how things work and how they can be improved.
+
+I believe in continuous learning and adaptability, and I’m always excited to explore new tools and technologies. Whether it’s understanding how software systems work or developing solutions that make everyday tasks easier, I’m passionate about making an impact through technology.
+
+I’m open to opportunities to learn, collaborate, and grow in the field of development and innovation. Let’s connect and share ideas!
+
  
  🔭 I’m currently studying at Rajalakshmi Engineering College
  
