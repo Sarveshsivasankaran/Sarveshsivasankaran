@@ -17,6 +17,8 @@ I’m open to opportunities to learn, collaborate, and grow in the field of deve
  
  🔭 I’m currently studying at Rajalakshmi Engineering College
  
+ 🔌 I'm also an Embedded IoT enthusiast, always eager to build smart, connected solutions
+ 
  🌟 I'm passionate about building smart solutions using modern technologies  
  
 💡 Always curious to explore new tech like AI, automation, and cross-platform apps  
