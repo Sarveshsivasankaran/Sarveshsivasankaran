@@ -80,12 +80,13 @@ I’m open to opportunities to learn, collaborate, and grow in the field of deve
 <div align="center">
     <h1>👾Try hack me! Badges👾</h1>
     <br>
-<!--     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5442764" alt="Badge-profile"/> -->
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5442764" alt="Badge-profile"/>
     <br/>
     <br>
     <img width="450" height="250" alt="6e3bc0cb7ab0fb03db4107ecfde34bcf" src="https://github.com/user-attachments/assets/b539e1ed-d92d-422e-a35e-6fc73dfd31b5" />
     <img width="450" height="250" alt="86e930d31d791036ccb453ede3bb2292" src="https://github.com/user-attachments/assets/52f8f8f7-d3be-4a66-ae84-0e2e0a001544" />
     <img width="450" height="250" alt="4da1fca1d94d406c7654b8cabd35ff0f" src="https://github.com/user-attachments/assets/e53e6984-e932-4447-92f8-2942155636ef" />
+    <img width="450" height="250" alt="f6d99cbdf06bb210a23773499e91328a" src="https://github.com/user-attachments/assets/2737a65a-3411-4f7b-908e-933c2fa43917" />
     <br/>
 </div>
 
