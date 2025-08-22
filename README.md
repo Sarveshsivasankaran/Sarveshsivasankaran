@@ -90,7 +90,6 @@ I’m open to opportunities to learn, collaborate, and grow in the field of deve
     <img width="450" height="250" alt="e8b384267b0b64342c38cdb95fa8e2c3" src="https://github.com/user-attachments/assets/879b52d4-1a80-49c5-9be5-ff6a30248c58" />
     <img width="450" height="250" alt="0969917334a9f24eaa6f6fb1e50e89bb" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
 
-    <br/>
 </div>
 
 <hr/>
