@@ -87,6 +87,9 @@ I’m open to opportunities to learn, collaborate, and grow in the field of deve
     <img width="450" height="250" alt="86e930d31d791036ccb453ede3bb2292" src="https://github.com/user-attachments/assets/52f8f8f7-d3be-4a66-ae84-0e2e0a001544" />
     <img width="450" height="250" alt="4da1fca1d94d406c7654b8cabd35ff0f" src="https://github.com/user-attachments/assets/e53e6984-e932-4447-92f8-2942155636ef" />
     <img width="450" height="250" alt="f6d99cbdf06bb210a23773499e91328a" src="https://github.com/user-attachments/assets/2737a65a-3411-4f7b-908e-933c2fa43917" />
+    <img width="450" height="250" alt="e8b384267b0b64342c38cdb95fa8e2c3" src="https://github.com/user-attachments/assets/879b52d4-1a80-49c5-9be5-ff6a30248c58" />
+    <img width="450" height="250" alt="0969917334a9f24eaa6f6fb1e50e89bb" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
+
     <br/>
 </div>
 
