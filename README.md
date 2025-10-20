@@ -88,7 +88,7 @@
 <details>
   <summary>👾 My TryHackMe Badges 👾</summary>
   <br>
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5442764" alt="Badge-profile"/>
+  [Badge Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5442764)
   <br/><br/>
   <img width="450" height="250" src="https://github.com/user-attachments/assets/b539e1ed-d92d-422e-a35e-6fc73dfd31b5" />
   <img width="450" height="250" src="https://github.com/user-attachments/assets/52f8f8f7-d3be-4a66-ae84-0e2e0a001544" />
