@@ -18,7 +18,7 @@
 
 </div>
 
-<div align=right">
+<div align="left">
   <img src="https://i.pinimg.com/originals/0e/b0/51/0eb051ba6b5cfe9cbfdc3ca92f20c87c.gif" />
 </div>
 
