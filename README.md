@@ -38,7 +38,8 @@
 </div>
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C5CE7&height=2" width="100%"/>
+
 <br/>
 <h2 align="left">⚒️ Arsenal · Skills · Loadout ⚒️</h2>
 <br/>
@@ -90,7 +91,7 @@
   <img width="450" height="250" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C5CE7&height=2" width="100%"/>
 
 <h3 align="center">⚠️ Status</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/>
