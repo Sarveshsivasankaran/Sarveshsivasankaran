@@ -93,6 +93,7 @@
 ---
 
 <h3 align="center">⚠️ Status</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/>
 
 ```diff
 + Leveling up daily
