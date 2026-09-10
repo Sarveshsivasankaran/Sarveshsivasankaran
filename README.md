@@ -59,7 +59,7 @@ const sarvesh = {
 > *“I don’t wait for opportunities. I build systems that create them.”*
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C5CE7&height=2" width="100%"/>
+<hr></hr>
 
 <div align="left">
   
@@ -69,7 +69,9 @@ const sarvesh = {
 </div>
 <br/>
 
-<h2 align="left">📈 Rank Progress 📈</h2>
+<hr></hr>
+
+<h2 align="left">📈 Rank Progress</h2>
 <br/>
 
 <p align="center">
@@ -82,15 +84,16 @@ const sarvesh = {
 </p>
 <br/>
 
+<hr></hr>
+
 <div align="left">
-  <h2>🐍 Shadow Army 🐍</h2>
+  <h2>🐍 Shadow Army</h2>
   <img alt="shadow army consuming contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
-<br/>
 
 <details>
-  <summary>👾 Dungeon Clears (TryHackMe) 👾</summary>
+  <summary>👾 Dungeon Clears (TryHackMe)</summary>
   <br>
 
   - Linux Fundamentals  
@@ -107,8 +110,6 @@ const sarvesh = {
   <img width="450" height="250" src="https://github.com/user-attachments/assets/879b52d4-1a80-49c5-9be5-ff6a30248c58" />
   <img width="450" height="250" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C5CE7&height=2" width="100%"/>
 
 <h3 align="center">⚠️ Status</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/>
