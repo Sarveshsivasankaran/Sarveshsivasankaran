@@ -1,0 +1,74 @@
+name: Update Profile Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # General GitHub activity
+      - uses: shinpr/github-profile-stats@v0.2.0
+        id: general
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          profile: signal-field
+
+      - name: Copy General Stats
+        env:
+          READY_DIR: ${{ steps.general.outputs.ready-dir }}
+        run: |
+          mkdir -p profile
+          cp "$READY_DIR"/signal-field-wide-dark.svg profile/github-stats.svg
+
+      # Streak / activity consistency
+      - uses: shinpr/github-profile-stats@v0.2.0
+        id: streak
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          profile: activity-consistency
+
+      - name: Copy Streak Stats
+        env:
+          READY_DIR: ${{ steps.streak.outputs.ready-dir }}
+        run: |
+          cp "$READY_DIR"/activity-consistency-wide-dark.svg profile/streak-stats.svg
+
+      # Programming languages
+      - uses: shinpr/github-profile-stats@v0.2.0
+        id: languages
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          profile: language-composition
+
+      - name: Copy Language Stats
+        env:
+          READY_DIR: ${{ steps.languages.outputs.ready-dir }}
+        run: |
+          cp "$READY_DIR"/language-composition-wide-dark.svg profile/languages.svg
+
+      - name: Commit Updated Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update GitHub profile stats"
+          git push
