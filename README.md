@@ -4,21 +4,57 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There+Codey+👋;I'm+Sarvesh+Sivasankaran!;AKA👉+Solo-P-Leveller;" />
 </h1>
 
-<h3 align="center">🗡️ Hunter Profile 🗡️</h3>
-<br>
-
-<div align="left">
-
-- 🎓 **Rank:** Computer Science Engineering Student  
-- 🏫 **Guild:** Rajalakshmi Engineering College  
-- 🔌 **Class:** Full-Stack Developer, Embedded IoT Engineer
-- 💡 **Sub-Skills:** AI, Automation, Cross-Platform Apps  
-- 🌱 **Current Training Arc:** Flutter · RPA · MongoDB  
-- 🚀 **Objective:** Build real systems. Eliminate inefficiency.
+<div align="center">
+  
+  <a href="mailto:sarveshsivasankaran@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sarvesh-sivasankaran/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Sarveshsivasankaran">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Sarvesh_Sivasankaran/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
 </div>
 
+<hr></hr>
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="390" src="YOUR_CODING_IMAGE_OR_GIF_URL">
+
+```javascript
+const sarvesh = {
+  role:      "CSE Student | IoT & AI/ML Builder",
+  location:  "Chennai, Tamil Nadu 🇮🇳",
+  education: "B.E. Computer Science Engineering",
+  college:   "Rajalakshmi Engineering College",
+  stack:     ["Python", "C", "Java", "MongoDB",
+              "Firebase", "Supabase"],
+  interests: ["IoT", "AI/ML", "Edge AI", "Robotics"],
+  passion:   "Building tech that solves real problems",
+  motto:     "Level Up. Build. Repeat. ⚡"
+};
+```
 <div align="left">
+  
+- 🚀 Currently building AI + IoT + Robotics Projects
+- 🤖 Exploring AI Agents · Edge AI · RAG · Computer Vision
+- 🛰️ Working on SAR-V — Autonomous Search & Rescue Vehicle
+- 💡 Vice President @ Intellexa REC
+- 👨‍💻 Organizer @ CodeSapiens
+- ⚡ Fun fact: I don't just build projects — I keep adding features until they become ecosystems 😂
+
+</div>
+
+<div align="right">
   <img src="https://i.pinimg.com/originals/0e/b0/51/0eb051ba6b5cfe9cbfdc3ca92f20c87c.gif" />
 </div>
 
