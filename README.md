@@ -149,10 +149,7 @@ const sarvesh = {
   <img src="./profile/languages.svg" width="60%" />
 </p>
 
-<hr></hr>
-
 <div align="left">
-  <h2>🐍 Shadow Army</h2>
   <img alt="shadow army consuming contributions" src="https://raw.githubusercontent.com/Sarveshsivasankaran/Sarveshsivasankaran/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
@@ -176,8 +173,8 @@ const sarvesh = {
   <img width="450" height="250" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
 </details>
 
-<h3 align="left">⚠️ Status</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/>
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/> -->
 
 ```diff
 + Leveling up daily
