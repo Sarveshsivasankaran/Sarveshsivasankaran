@@ -122,6 +122,22 @@ const sarvesh = {
 
 <hr></hr>
 
+## 🏆 Achievements & Certifications
+
+| 🥇 Achievement | 📊 Highlight |
+| :--- | :--- |
+| 🤖 **TCS AI Immersion Hackathon** | 🏆 **Rank 5 / 603 Participants** |
+| 💡 **Smart India Hackathon 2025** | 🥇 **Winner – Internal Hackathon, Rajalakshmi Engineering College** |
+| 🌱 **TIFA World Record** | **300 Saplings** · Anna University |
+| 🚩 **root@localhost CTF** | **Top 35** |
+| 🤖 **SP Robotics – Advanced Robotics** | 🥇 **Master Certificate · Gold** |
+| 🧹 **ICC World Cup Robotics Project** | National-Level Appreciation |
+| 🧠 **AI Excellence** | AT Speaks · **20-Hour Certification** |
+| 🍃 **MongoDB Basics for Students** | MongoDB Certified |
+| 📊 **Data Science Foundations** | LinkedIn Learning |
+
+<hr></hr>
+
 <h2 align="left">📈 Rank Progress</h2>
 <br/>
 
