@@ -71,6 +71,57 @@ const sarvesh = {
 
 <hr></hr>
 
+## 💼 Work Experience
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 Hyle Global
+<code>AI Engineer Intern</code> · <code>Jul 2026 – Sep 2026</code>
+
+- Built and explored **AI-powered solutions**
+- Worked with **AI/ML workflows & model integration**
+- Developed intelligent application features
+- Worked with APIs and data processing pipelines
+- Gained hands-on **AI Engineering** experience
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 Tata Consultancy Services (TCS)
+<code>Upcoming AI Engineer Intern</code> · <code>Upcoming</code>
+
+- Selected through the **TCS AI Immersion Hackathon**
+- 🏆 **Rank 5 / 603 participants**
+- Upcoming exposure to enterprise **AI Engineering**
+- Focused on **AI/ML & intelligent systems**
+- Preparing to build scalable AI solutions
+
+</td>
+
+</tr>
+</table>
+
+<hr></hr>
+
+## 🚀 Featured Projects
+
+| 🔥 Project | 🛠️ Stack | 📌 Impact |
+| :--- | :--- | :--- |
+| 🤖 [**SAR-V**](YOUR_SARV_REPO_LINK) | Edge AI · YOLO · Q6A · LiDAR · LoRa | Multi-terrain autonomous disaster-response system |
+| ⚡ [**Visualec**](https://github.com/Sarveshsivasankaran/Visualec) | ESP32-S3 · AI Vision · IoT | Smart occupancy-based energy management |
+| 📚 [**Notezilla AI**](https://github.com/Sarveshsivasankaran/Students-Notes-Manager---Notezilla) | Node.js · Supabase · Gemini · Socket.IO | AI-powered academic notes, study tools & personalized DSA learning |
+| 🌊 [**Smart Buoy Network**](https://github.com/Sarveshsivasankaran/Smart_Buoy) | ESP8266 · Sensors · Supabase · React | Low-cost real-time ocean & coastal disaster monitoring |
+| 🆘 [**Disaster Management System-Sentinel**](https://github.com/Sarveshsivasankaran/Disaster-Management-System) | Flutter · Supabase · ML · IoT | SOS broadcasting, risk prediction & evacuation assistance |
+| 🕷️ [**WebCrawler**](https://github.com/Sarveshsivasankaran/Web-Crawler) | Flask · Gemini · Supabase | AI web summarization & entity extraction |
+| 🚌 [**Azure Bus Tracker**](YOUR_BUS_TRACKER_REPO_LINK) | Azure · APIs · Maps | Live tracking, routes & ETA prediction |
+| 💧 [**Water Quality AI**](https://github.com/Sarveshsivasankaran/Water-Quality-monitoring-ML-model) | Python · Random Forest · Pandas | ML-based water quality risk prediction |
+
+<hr></hr>
+
 <h2 align="left">📈 Rank Progress</h2>
 <br/>
 
@@ -111,7 +162,7 @@ const sarvesh = {
   <img width="450" height="250" src="https://github.com/user-attachments/assets/36f5692a-8ea4-402e-a0fd-1e6803f56911" />
 </details>
 
-<h3 align="center">⚠️ Status</h3>
+<h3 align="left">⚠️ Status</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsivasankaran&bg_color=05070D&color=00BFFF&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true" width="95%"/>
 
 ```diff
