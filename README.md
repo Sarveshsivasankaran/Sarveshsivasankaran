@@ -138,18 +138,16 @@ const sarvesh = {
 
 <hr></hr>
 
-<h2 align="left">📈 Rank Progress</h2>
-<br/>
+## 📈 Rank Progress
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarveshsivasankaran&theme=material-palenight&hide_border=true&border_radius=12" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarveshsivasankaran&show_icons=true&theme=material-palenight" height="150" />
+  <img src="./profile/streak-stats.svg" width="48%" />
+  <img src="./profile/github-stats.svg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsivasankaran&layout=compact&theme=material-palenight" height="150" />
+  <img src="./profile/languages.svg" width="60%" />
 </p>
-<br/>
 
 <hr></hr>
 
