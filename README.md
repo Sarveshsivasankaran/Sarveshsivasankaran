@@ -49,7 +49,7 @@ const sarvesh = {
 - 🤖 Exploring AI Agents · Edge AI · RAG · Computer Vision
 - 🛰️ Working on SAR-V — Autonomous Search & Rescue Vehicle
 - 💡 Vice President @ Intellexa REC
-- 👨‍💻 Organizer @ CodeSapiens
+- 👨‍💻 Organizer @ CodeSapiens The Student Community Of Coders
 - ⚡ Fun fact: I don't just build projects — I keep adding features until they become ecosystems 😂
 
 </div>
