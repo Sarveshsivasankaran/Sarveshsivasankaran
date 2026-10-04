@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Solo_Levelling_GIF" style="width: 390; border: 1px solid #ddd; padding: 5px; border-radius: 4px;" src="https://i.pinimg.com/originals/0e/b0/51/0eb051ba6b5cfe9cbfdc3ca92f20c87c.gif">
+<img align="right" alt="Solo_Levelling_GIF" width="390" src="https://i.pinimg.com/originals/0e/b0/51/0eb051ba6b5cfe9cbfdc3ca92f20c87c.gif">
 
 ```javascript
 const sarvesh = {
