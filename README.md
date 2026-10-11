@@ -112,6 +112,8 @@ const sarvesh = {
 | 🔥 Project | 🛠️ Stack | 📌 Impact |
 | :--- | :--- | :--- |
 | 🤖 [**SAR-V**](YOUR_SARV_REPO_LINK) | Edge AI · YOLO · Q6A · LiDAR · LoRa | Multi-terrain autonomous disaster-response system |
+| 🧑‍⚕️ [**ClaimShield_Nexus**](https://github.com/Sarveshsivasankaran/ClaimShield_Nexus.git) | AI . ElasticSearch . React . Cytoscape.js . Tailwind . FastAPI | Evidence-connected healthcare FWA investigation intelligence. |
+| ©️ [**CacheFusion**](https://github.com/Sarveshsivasankaran/CacheFusion.git) | Java . HTML . CSS | Adaptive Hybrid Java Cache with Live React Dashboard |
 | ⚡ [**Visualec**](https://github.com/Sarveshsivasankaran/Visualec) | ESP32-S3 · AI Vision · IoT | Smart occupancy-based energy management |
 | 📚 [**Notezilla AI**](https://github.com/Sarveshsivasankaran/Students-Notes-Manager---Notezilla) | Node.js · Supabase · Gemini · Socket.IO | AI-powered academic notes, study tools & personalized DSA learning |
 | 🌊 [**Smart Buoy Network**](https://github.com/Sarveshsivasankaran/Smart_Buoy) | ESP8266 · Sensors · Supabase · React | Low-cost real-time ocean & coastal disaster monitoring |
@@ -128,6 +130,7 @@ const sarvesh = {
 | :--- | :--- |
 | 🤖 **TCS AI Immersion Hackathon** | 🏆 **Rank 5 / 603 Participants** |
 | 💡 **Smart India Hackathon 2025** | 🥇 **Winner – Internal Hackathon, Rajalakshmi Engineering College** |
+| 🧑‍⚕️ **Acentra Health Build To Care Hackathon 2026** | 🏆 **Top 34 Teams amon 650+ Teams** |
 | 🌱 **TIFA World Record** | **300 Saplings** · Anna University |
 | 🚩 **root@localhost CTF** | **Top 35** |
 | 🤖 **SP Robotics – Advanced Robotics** | 🥇 **Master Certificate · Gold** |
